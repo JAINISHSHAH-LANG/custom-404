@@ -1,7 +1,8 @@
-# 🌐 Custom 404 GitHub Pages
+# Custom 404 Demo
 
-A GitHub Pages site with a creative 404 page by **Jainish Prathmesh Shah (he/him)**.
+This repository hosts my **GitHub Pages** site with a **custom 404 error page**.
 
-- Email: 24f1002326@ds.study.iitm.ac.in  
-- Homepage: [https://JAINISHSHAH-LANG.github.io/custom-404](https://JAINISHSHAH-LANG.github.io/custom-404)
-- Test 404: [https://JAINISHSHAH-LANG.github.io/custom-404/test-404](https://JAINISHSHAH-LANG.github.io/custom-404/test-404)
+**Author:** Jainish Shah  
+**Email:** 24f1002326@ds.study.iitm.ac.in  
+
+Visit the live site: [https://jainishshah-lang.github.io/custom-404/](https://jainishshah-lang.github.io/custom-404/)
